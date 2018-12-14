@@ -1,5 +1,4 @@
-# Baozi Button Sounds
-The Sounds Of The Baozi Button
+# The Sounds Of The Baozi Button
 
 Here you can find a release of the sound files used in the Baozi Button.
 Whenever there is a new release with new sounds, there will be a new directory number
